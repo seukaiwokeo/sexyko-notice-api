@@ -1,14 +1,18 @@
 {
   "title": "SexyKO",
-  "notices": [
-    {
-      "test 1": "https://www.sexyko.com/"
-    },
-    {
-      "test 2": "http://google.com/"
-    }
+  "notices":
+  [
+      {
+        "title": "test 1",
+        "url": "https://www.sexyko.com/"
+      },
+      {
+        "title": "test 2",
+        "url": "http://google.com/"
+      }
   ],
-  "webs": {
+  "webs":
+  {
     "website": "https://www.sexyko.com/",
     "facebook": "https://www.facebook.com/OfficialSexyKO",
     "youtube": "https://www.youtube.com/c/SexyKO2",
